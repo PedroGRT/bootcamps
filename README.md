@@ -1,2 +1,2 @@
-# bootcamps
-Repository created to share my projects in bootcamps.
+# Repositório dos meus projetos em Bootcamps.
+Desafios de Projeto em Kotlin
